@@ -1,0 +1,153 @@
+/* General */
+#bodyacceuil{
+    background: url('images/fond3.jpg') no-repeat fixed;
+}
+#bodyevent{
+    background: lightgreen;
+}
+section{
+    background-color: rgba(255,255,255,.1);
+    border: 0.5px solid white;
+}
+h1{
+    text-align: center;
+    font-family: monospace serif sans-serif;
+    font-size: 2em;
+    color: chocolate;
+}
+.orange{color: orange;}
+.blanc{color: white;}
+.vert{color: green;}
+.container-fluid{background-color: transparent;}
+
+/* logo */
+.logo1{
+    width: 200px;
+    height: 100px;
+    margin: -18px auto 5px;
+    opacity: 0.7;
+    border-radius: 10px;
+}
+#CI{
+    width: 150px;
+    height: 100px;
+    margin-right: -50px;
+    
+}
+#CI:hover{
+    width: 800px;
+    height: 600px;
+    
+}
+.navbar-default{
+    background: rgba(10,25,10,.8);
+    margin-top: 60px;
+}
+
+/* Header */
+.petitlogo{
+    width: 80px;
+    height: 50px;
+    margin-top: -15px;
+}
+
+.navbar .navbar-nav{
+/*    display: inline-block;*/
+    float: none;
+    vertical-align: top;
+}
+/*
+.navbar .navbar-right{
+    display: inline-block;
+}
+*/
+.navbar .navbar-collapse{
+    text-align: center;
+}
+.navbar-brand{margin-right: 20px;}
+.nav-link{
+    font-weight: bold;
+    margin-right: 0px;
+    letter-spacing: 1px;
+    
+}
+.nav-link:hover{background: chocolate;}
+.navbar-light{
+    background-color:aliceblue;
+    margin: 0px auto;
+    padding: 10px auto;
+    opacity: 0.8;
+}
+#navbarNavAltMarkup a{ color: green;}
+.nav-event{margin-bottom: 50px;}
+
+/*section*/
+#info{
+    
+    text-align: center;
+    background-color: rgba(255,255,255;0.8);
+    border: 3px solid;
+    border-color: orange white darkgreen;
+    width: 800px;
+    margin: 30px auto;
+    font-size: 1.5em;
+    color: aliceblue
+}
+#info span{font-weight: bold;
+    color: black;
+}
+#asavoir{
+    font-weight: bold;
+    font-size: 1.5em; 
+    color: chocolate;
+}
+
+a, li{
+    display: inline-block;
+}
+.diversite .row div{
+    border: 1px solid;
+    border-color: orange white darkgreen;
+    margin: 10px auto;
+}
+h4{
+    font-weight: bold;
+    font-size: 1.5em;
+    color: chocolate;
+    text-align: center;
+}
+
+.carousel-items img{
+    width: 410px;
+    height: 300px;
+}
+/*EVENEMENT*/
+.event img{
+    float: left;
+    margin: 0 10px 30px 0;
+    width: 400px;
+    height: 250px;
+}
+.event span{
+    font-weight: bold;
+    font-family: "arial" monospace sans-serif;
+}
+#footer{
+    background: rgba(255,255,255,0.8);
+}
+
+
+
+
+.clear{
+    clear: both;
+    margin-bottom: 20px;
+}
+#cache {display:none;}
+
+#footer1{clear: both;}
+
+
+
+
+
